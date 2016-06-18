@@ -23,5 +23,5 @@ for element in list:
 print dic_accum
 
 print 'add pair key-value'
-dic['d'] = 4
+dic['d'] = 5
 print dic
