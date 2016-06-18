@@ -20,7 +20,7 @@ def swapFilesContent(name_file1, name_file2):
 
 swapFilesContent('yyy.txt', 'zzz.txt')
 
-def read_file_content (name_file):
+def read_file_content(name_file):
     file = open(name_file, 'r')
     line = file.readline()
     is_first_line_mode = True
